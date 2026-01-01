@@ -1,4 +1,4 @@
-# Discord Username Checker Tool 🚀
+# Discord Username Checker Tool 
 
 An advanced and high-speed tool for checking Discord usernames, featuring proxy support and multi-threading for maximum performance.
 
